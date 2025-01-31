@@ -22,7 +22,7 @@ import seaborn as sns
 
 np.set_printoptions(threshold=np.inf)
 # data in .mat file
-path = 'Example/'
+path = 'data/'
 filename = 'gefcom2017'
 mat = loadmat(path + filename + '.mat')  
 mdata = mat['data'] 
