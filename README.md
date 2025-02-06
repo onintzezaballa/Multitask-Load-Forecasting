@@ -45,7 +45,7 @@ We save the data in .mat files with hourly load time series, temperature time se
 
 ## Test case
 
-We display in this repository an example of the dataset GEFCom2017 with 7 entities.
+We display in this repository an example of the dataset [GEFCom2017](https://www.sciencedirect.com/science/article/abs/pii/S016920701930024X) with 8 entities.
 
 ## Support and Author
 
