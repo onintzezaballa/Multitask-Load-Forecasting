@@ -1,8 +1,8 @@
-# Multi-task Probabilistic Load Forecasting Based on Online Learning
+# Adaptive Multi-task Learning for Probabilistic Load Forecasting
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](/AMRC_Python) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#support-and-author)
 
-This repository is the official implementation of the code developed in "Multi-task Probabilistic Load Forecasting Based on Online Learning" paper.
+This repository is the official implementation of the code developed in the paper "Adaptive Multi-task Learning for Probabilistic Load Forecasting".
 
 The proposed method is a multi-task learning method for online and probabilistic load forecasting. The method can dynamically adapt to changes in consumption patterns and correlations among multiple entities. The techniques presented provide accurate probabilistic predictions for loads of multiples entities and asses load uncertainties.
 
